@@ -1,6 +1,6 @@
 # SpaceX 
 
-![预览](D:\项目\spacex\img\预览.png)
+![预览](img\预览.png)
 
 ## 一、项目简介
 
